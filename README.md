@@ -43,15 +43,3 @@ Resumes are an ideal example of unstructured data. Since there is no widely acce
     <img src="https://user-images.githubusercontent.com/109328924/228459622-8a3a962c-4f6a-4efe-a46a-cda091fa528c.png" width="800" />
 </div>
 
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/109328924?v=4" width="200" />
-    <h3> Connect with me </a>
-    </h3>
-    <p align="center">
-        <a href="https://www.linkedin.com/in/shanuhalli" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &emsp;
-        <a href="https://www.instagram.com/hallishanu" target="_blank"><img alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &emsp;
-        <a href="https://www.facebook.com/hallishanu" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a> &emsp;
-        <a href="mailto:shanuhalli@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a> &emsp;
-        <a href="https://api.whatsapp.com/send/?phone=%2B919860934650&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>
-    </p>
-</div>
